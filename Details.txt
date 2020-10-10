@@ -1,9 +1,0 @@
-. Attack mitigation is a detection and protection strategy used to safeguard person or place while maintaining
-  functionality.
-. file names without any whitespaces.
-. Variable names should be in camel case.
-. All HTML pages must contain search engine friendly HTML meta tags.
-. All styling should go into CSS.
-. Don't use absolute URL's for any resourses and images.
-. Don't use any frameworks as bootstrap or jQuery
-
